@@ -1,7 +1,9 @@
 RNNMorph-0.4.0
 beautifulsoup4==4.6.3
+bpemb==0.2.9
 fasttext==0.8.3
 gensim==3.4.0
+jupyter==1.0.0
 keras-2.2.4
 markovify==0.7.1
 matplotlib==2.2.3
@@ -18,6 +20,7 @@ seaborn==0.9.0
 spacy==2.0.16
 tensorflow==1.1.0
 Theano==0.9.0
+ufal.udpipe==1.2.0.1
 yargy==0.11.0
 yellowbrick==0.9
 wordcloud==1.5.0
