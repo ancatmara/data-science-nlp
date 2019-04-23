@@ -1,5 +1,6 @@
 beautifulsoup4
 bpemb
+conllu
 fasttext
 gensim
 jupyter
@@ -10,6 +11,7 @@ natasha
 nltk
 numpy
 pandas
+pyLDAvis
 pymorphy2
 pymystem3
 rusenttokenize
